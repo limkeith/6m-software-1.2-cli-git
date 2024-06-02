@@ -1,11 +1,14 @@
-p {
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.container {
   background-color: aquamarine;
-}
-
-li {
-  color: burlywood;
-}
-
-h3 {
-  font-size: italic;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
 }

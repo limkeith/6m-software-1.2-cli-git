@@ -8,7 +8,7 @@ C: Command Line Inter-terminal
 
 D: Command Line Item
 
----
+--- Ans: B
 
 ### Q2: GIT is a distributed version control.
 
@@ -16,7 +16,7 @@ D: Command Line Item
 
 B: False
 
----
+--- Ans: A
 
 ### Q3: GIT is the only version control tool.
 
@@ -24,7 +24,7 @@ A: True
 
 **B: False**
 
----
+--- Ans: B
 
 ### Q4: The command `git add` is used to commit staged files.
 
@@ -32,7 +32,7 @@ A: True
 
 **B: False**
 
----
+--- Ans: B
 
 ### Q5: The command `git commit` is used to stage untracked files.
 
@@ -40,7 +40,7 @@ A: True
 
 **B: False**
 
----
+--- Ans: B
 
 ### Q6: Which GIT Command pushes committed code from local to remote repository?
 
@@ -52,7 +52,7 @@ B: git pull
 
 D: git merge
 
----
+--- Ans: C
 
 ### Q7: Which GIT Command is used to update local version of a repository from a remote repository?
 
@@ -64,7 +64,7 @@ C: git push
 
 D: git merge
 
----
+---Ans: B
 
 ### Q8: Which GIT Command is used to download commits, files and refs from a remote repository into local repository?
 
@@ -76,7 +76,7 @@ C: git push
 
 D: git merge
 
----
+---Ans: A
 
 ### Q9: How do you check out a new branch?
 
@@ -88,7 +88,7 @@ B: git checkout branch_name
 
 D: git merge
 
----
+---Ans: C
 
 ### Q10: How do you merge two branch into one?
 
@@ -99,3 +99,5 @@ B: git pull
 C: git push
 
 **D: git merge**
+
+---Ans: D
